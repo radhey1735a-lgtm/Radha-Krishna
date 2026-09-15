@@ -5,9 +5,9 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "24962099"))
 API_HASH = environ.get("API_HASH", "483dda200f05eebfa9dcb5edde5467b5")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8884515477:AAGs7Ar2jgsc4lMW3I5FoNcpc5Cu8AlCqBU")
 
-OWNER = int(environ.get("OWNER", "5680454765"))
+OWNER = int(environ.get("OWNER", "7860978941"))
 CREDIT = environ.get("CREDIT", "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
